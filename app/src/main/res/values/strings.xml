@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP_1</string>
+    <string name="start">Start</string>
+    <string name="valider">Valider</string>
+    <string name="Sports">Sports</string>
+    <string name="Accueil">Accueil</string>
+    <string name="F1">F1</string>
+    <string name="Football">Football</string>
+    <string name="Natation">Natation</string>
+    <string name="F1_def">La Formule 1, communément abrégée en F1, est une discipline de sport automobile considérée comme la catégorie reine de ce sport. Elle a pris au fil des ans une dimension mondiale et elle est, avec les Jeux olympiques et la Coupe du monde de football, l un des événements sportifs les plus médiatisés. </string>
+</resources>
